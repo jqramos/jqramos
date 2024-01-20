@@ -10,4 +10,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://github.com/jqramos/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://github.com/jqramos/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+><img src="https://github.com/jqramos/github-stats/blob/master/generated/languages.svg" />
