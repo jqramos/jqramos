@@ -9,3 +9,5 @@
 [![](https://visitcount.itsvg.in/api?id=jqramos&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://github.com/jqramos/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://github.com/jqramos/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
